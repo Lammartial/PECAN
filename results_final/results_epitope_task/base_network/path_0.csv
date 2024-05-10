@@ -1,0 +1,2 @@
+epoch,loss_train,ave_loss_train,loss_val,ave_loss_val,loss_test,ave_loss_test,auprc_avg_train,auprc_med_train,auprc_avg_val,auprc_med_val,auprc_avg_test,auprc_med_test
+10, 15.448803,0.14998838,4.9083953,0.169255,4.0082507,0.13360836,0.20152467232223598,0.17613035274673733,0.18060285410828356,0.1733127131975271,0.19200084339580745,0.17403500816849163
